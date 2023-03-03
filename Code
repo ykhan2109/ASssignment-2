@@ -1,0 +1,6 @@
+list1 = [5, 7, 9, 14, 10, 20, 4]
+ 
+# sorting the list
+list1.sort()
+ 
+print("Smallest element is:", list1[0])
